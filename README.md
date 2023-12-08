@@ -29,9 +29,9 @@ THEN I can save my initials and my score
 ## Technologies
 The technologies I used in this challenge includes:
 1. HTML: template working HTML file was created that structures the basic layout of the coding quiz screen, time and the button.
-2. CSS: template working CSS was created which included the styling of the coding quiz application..
-3. Github: Gibhub was used to create a repository which includes the links to the projects, assets folder, and the README file.
-4. Giblab: Giblab was used to clone the project to our laptop.
+2. CSS: template working CSS file was created which includes the styling of the coding quiz application.
+3. Github: Github was used to create a repository which includes the links to the projects, assets folder, and the README file.
+4. Gitlab: Gitlab was used to clone the project to our laptop.
 
 ## Installation
 
