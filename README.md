@@ -51,7 +51,7 @@ To clone: git clone https://github.com/your-username/repository-name.git
 
 ## Screenshot
 
- ![JavaScript Code Quiz](Assets/images/JAVASCRIPT CODE QUIZ.gif)    
+ ![JavaScript Code Quiz](Assets/images/js_code_quiz.gif)    
 
 ## Resources
 [W3schools_Introduction to Web APIs](https://www.w3schools.com/js/js_api_intro.asp)
